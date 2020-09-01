@@ -4,4 +4,4 @@ I created this script during the pandemic to total all of the numbers from the d
 
 # How To Use
 
-This script works in TamperMonkey, or as raw javascript at the https://ung.edu/together/managing-covid.php page. 
+This script works exlusively on the https://ung.edu/together/managing-covid.php page. The script should be able to be used directly against the page once it's loaded. 
