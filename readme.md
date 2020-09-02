@@ -1,4 +1,4 @@
-## The university has implemented this idea into their reporting, and has changed the structure of their data.
+## The university has implemented this idea into their reporting, and has changed the structure of their data. This script's intentions are now a default inside of the university's website
 
 # Purpose
 
