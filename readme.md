@@ -1,4 +1,4 @@
-# The university has implemented this idea into their reporting
+## The university has implemented this idea into their reporting, and has changed the structure of their data.
 
 # Purpose
 
