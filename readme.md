@@ -1,3 +1,5 @@
+# The university has implemented this idea into their reporting
+
 # Purpose
 
 I created this script during the pandemic to total all of the numbers from the different campuses at UNG. I wanted to look at the spead of distribution between the campuses, and see how they were impacted.
